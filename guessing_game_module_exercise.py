@@ -1,8 +1,9 @@
-import sys
+# import sys
 import random
 
 
-random_number = random.randint(int(sys.argv[1]), int(sys.argv[2]))
+# random_number = random.randint(int(sys.argv[1]), int(sys.argv[2]))
+random_number = random.randint(1,10)
 
 while True:
     try:
