@@ -33,6 +33,10 @@ input("Press Enter to close the browser...")
 
 chrome_browser.quit()
 
+# wow that's crazyyyyyyyyyyy
+
+
+
 
 
 
